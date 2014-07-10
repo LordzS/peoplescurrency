@@ -1,7 +1,7 @@
 PeoplesCurrency integration/staging tree
 ================================
 
-http://www.peoplescurrency.ml
+http://www.peoplescurrency.cf
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2014 PeoplesCurrency Developers
@@ -9,8 +9,8 @@ Copyright (c) 2014 PeoplesCurrency Developers
 What is PeoplesCurrency?
 ----------------
 
-PeoplesCurrency is a lite version of Bitcoin using X16 as a proof-of-work algorithm.
- - Super secure hashing algorithm: 16 rounds of scientific hashing functions (blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, echo, hamsi, fugue, shabal, whirlpool, haval)
+PeoplesCurrency is a lite version of Bitcoin using 17 rounds of hash as a proof-of-work algorithm.
+ - Super secure hashing algorithm: 17 rounds of scientific hashing functions (blake, bmw, groestl, jh, keccak, skein, luffa, cubehash, shavite, simd, echo, hamsi, fugue, shabal, whirlpool, sha2big, haval 5-pass)
  - Block reward is controlled by moore's law: 3333333/(((Difficulty+2600)/9)^2)
  - GPU/CPU only mining
  - Block generation: 60 seconds
@@ -19,7 +19,7 @@ PeoplesCurrency is a lite version of Bitcoin using X16 as a proof-of-work algori
  - Anonymous blockchain using DarkSend technology (Based on CoinJoin): Beta Testing
 
 For more information, as well as an immediately useable, binary version of
-the PeoplesCurrency client sofware, see http://www.peoplescurrency.ml.
+the PeoplesCurrency client sofware, see http://www.peoplescurrency.cf.
 
 License
 -------
